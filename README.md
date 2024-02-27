@@ -9,7 +9,7 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: ABR23-24
 
-Estudiante: Samantha De la Cruz
+Estudiante: Samantha Michelle De la Cruz Banegas 
 ------------------
 ## Descripción del contenido
 

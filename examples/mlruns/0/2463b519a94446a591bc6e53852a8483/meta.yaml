@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samy_/Desktop/GESTION/13MIBDSMDB/examples/mlruns/0/2463b519a94446a591bc6e53852a8483/artifacts
+end_time: 1709260050808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2463b519a94446a591bc6e53852a8483
+run_name: glamorous-elk-738
+run_uuid: 2463b519a94446a591bc6e53852a8483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709260040373
+status: 3
+tags: []
+user_id: samy_

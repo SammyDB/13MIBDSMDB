@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samy_/Desktop/GESTION/13MIBDSMDB/examples/mlruns/0/ea3a798f66774762bb6a23b73acc2901/artifacts
+end_time: 1709260031992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea3a798f66774762bb6a23b73acc2901
+run_name: valuable-wolf-885
+run_uuid: ea3a798f66774762bb6a23b73acc2901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709260015178
+status: 3
+tags: []
+user_id: samy_
